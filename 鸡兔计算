@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<script type="text/javascript">
+document.write('头的数量为:35<br>脚的数量为:94')
+var t=35;
+var j=94;
+var one=j-t;
+var two=one-t;
+var tu=two/2;
+var ji=t-tu;
+
+	</script>
+	<br>
+	<input type="button" onclick="alert('得出鸡的数量是:'+ji)" value="鸡的数量">
+	<input type="button" onclick="alert('得出兔的数量是:'+tu)" value="兔的数量">
+</body>
+</html>
